@@ -11,25 +11,25 @@ function App() {
   
   const team = [
     {
-      name: 'Vitthal Choudhary',
+      name: 'Harshit Jangra',
       role: 'Cardiologist',
       education: 'M.D in Heart Transplant',
       image: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=300&h=300'
     },
     {
-      name: 'Lakshay Chhabra',
+      name: 'Rishi Thakur',
       role: 'Neurologist',
       education: 'Ph.D in Brain',
       image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=300&h=300'
     },
     {
-      name: 'Suresh Khanna',
+      name: 'Shivam rawat',
       role: 'Dental',
       education: 'MDS/BDS',
       image: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&q=80&w=300&h=300'
     },
     {
-      name: 'Ronak Sharma',
+      name: 'Aniket',
       role: 'Physiologist',
       education: 'PhD in physiology',
       image: 'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80&w=300&h=300'
