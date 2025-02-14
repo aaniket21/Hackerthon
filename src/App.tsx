@@ -112,23 +112,7 @@ function App() {
             <h1 className="text-3xl font-bold text-gray-900">Health Monitoring Dashboard</h1>
             <p className="text-gray-600 mt-1">Real-time health metrics with AI predictions</p>
           </div>
-          import { Button } from "@/components/ui/button";
-
-function App() {
-  const googleFormUrl = "https://forms.gle/YOUR_GOOGLE_FORM_LINK"; // Replace with your actual Google Form link
-
-  return (
-    <div className="flex gap-4">
-      <Button onClick={() => console.log("Downloading report...")}>Download Report</Button>
-      <Button onClick={() => window.open(googleFormUrl, "_blank")} variant="secondary">
-        Input Your Details
-      </Button>
-    </div>
-  );
-}
-
-export default App;
-
+    
           <button onClick={handleDownload} className="bg-blue-500 text-white px-4 py-2 rounded-md shadow">
             Download Report
           </button>
