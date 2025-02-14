@@ -14,7 +14,7 @@ function App() {
       name: 'Harshit Jangra',
       role: 'Cardiologist',
       education: 'M.D in Heart Transplant',
-      image: 'https://pin.it/1tkxTeQ0k'
+      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCuqhWPDTvw6iIpJDUGz_zEXnLqBzRjxp8IA&s'
     },
     {
       name: 'Rishi Thakur',
